@@ -1,0 +1,41 @@
+[33mcommit e4da6a19616f4229251648bc1d22b7dade29d111[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: seocal <seo.kai@outlook.com>
+Date:   Sat Jan 5 16:36:46 2019 +0900
+
+    removed LICENSE.md
+
+[33mcommit ec9b8dbd27e34d5829771f99990d5bddad24e305[m
+Author: seocal <42687870+seocal@users.noreply.github.com>
+Date:   Sat Jan 5 16:24:44 2019 +0900
+
+    Create LICENSE
+
+[33mcommit f6b685e3d19d06e3a95ab6f33aeaff0a60e8fd17[m
+Author: seocal <seo.kai@outlook.com>
+Date:   Sat Jan 5 16:21:38 2019 +0900
+
+    Removed mistake folder
+
+[33mcommit 11ed31c3650e7b7bc9b35af4cdf9899666bf7fe0[m
+Author: seocal <42687870+seocal@users.noreply.github.com>
+Date:   Sat Jan 5 16:19:58 2019 +0900
+
+    Create LICENSE.md
+
+[33mcommit 3b2aa9c00ad205bb3951811bb98531bfd5e85ba3[m
+Author: seocal <42687870+seocal@users.noreply.github.com>
+Date:   Sat Jan 5 16:14:27 2019 +0900
+
+    Create .gitignore
+
+[33mcommit 54a349ff513b97029a60b806eab75293abb67984[m
+Author: seocal <42687870+seocal@users.noreply.github.com>
+Date:   Sat Jan 5 16:13:21 2019 +0900
+
+    Added license
+
+[33mcommit 5504a799f309f07ea8bb0c8043cf6314145c4293[m
+Author: seocal <42687870+seocal@users.noreply.github.com>
+Date:   Sat Jan 5 16:11:44 2019 +0900
+
+    Created README
